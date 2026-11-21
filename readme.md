@@ -80,8 +80,17 @@ Aspiring Cyber Security Analyst and Full Stack Developer, pre-final year in **El
 ---
 
 ## 📈 GitHub Stats
-![Jayanthan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayanthansmilee&show_icons=true&count_private=true&theme=radical&hide_border=true)  
+
+<div align="center">
+
+![Jayanthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayanthansmilee&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthansmilee&layout=compact&count_private=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jayanthansmilee&theme=radical&hide_border=true)
+
+</div>
+
 
 ---
 
